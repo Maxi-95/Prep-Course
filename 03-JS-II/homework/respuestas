@@ -1,0 +1,4 @@
+for : Es un codigo que ejecuta una accion infinitamente, esta accion es sumar todo el tiempo.
+
+&&, ||, ! : Estos son operadores que se ubican en la parte de condicion de un codigo y su accion combierte los valores booleanos de dos o mas expresiones.
+            
