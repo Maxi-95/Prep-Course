@@ -217,7 +217,19 @@ function esVocal(letra){
   //Escribe tu código aquí
 
   if (letra.length == 1){
-    if (letra == "A" && letra == "E" && letra == "I" && letra == "O" && letra == "U"){
+    if (letra === "a"){
+      return "Es vocal";
+    }
+    if (letra === "e"){
+      return "Es vocal";
+    }
+    if (letra === "i"){
+      return "Es vocal";
+    }
+    if (letra === "o"){
+      return "Es vocal";
+    }
+    if (letra === "u"){
       return "Es vocal";
     }
     else {
