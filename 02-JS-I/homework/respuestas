@@ -1,0 +1,13 @@
+Variales: Una variable es como una caja que se crea en un archivo para luego darle una descripcion que seria como un valor que le agregamos a esa caja.
+          Esa caja se transforma como una palabra con un dignificado trasfondo.
+          Pero antes de crear estas cajas se les asigna la palabra *var*.
+
+Strings:  Si a la caja la denominamos animal y despues le agregamos el valor "perro", esa palabra perro se le conose como Strings en el lenguaje de javascrip y siempre lleva comillas.
+
+Funciones (argumentos, `return`): Una funcion es una accion que tendra mi codigo para que resuelva algo, para ello necesita tambien un Argumento, el Argumento es el estacio entre
+          parentesis donde le pondremos o iran colocados las variables, luego con Return haremos que muestre el resultado que nuestra funcion haga con respecto a las variables.
+
+Declaraciones `if`: La declaracion 'if' es un tipo de declaracion en donde realiza un accion afirmativa si el argumento (donde esta entre parentesis) da un resustado verdadero, lo cual
+          arrojara un *true*, que seria un como un 'ok', el resultado es positivo.
+
+Valores booleanos (`true`, `false`): La declaracion 'if' tiene dos tipos de resultado... *true* si es resultado de la accion es positiva y *false* si el resultado es negativa.   
