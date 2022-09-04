@@ -1,0 +1,158 @@
+
+  
+  body {
+    background-image: url(./imagenes/fondo\ cv\ -\ copia.png);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .Nombre{
+    margin-left: 650px;
+    background-color: yellow;
+    width: 610px;
+    padding: 35px;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .container{
+    background-color: rgb(3, 99, 196);
+    height: 550px;
+    width: 250px;
+  }
+  .contentNombre > div > h4{
+    margin-left: 650px;
+    font-size: 20px;
+  }
+  .contentNombre > div > img{
+    margin-left: 650px;
+  }
+  .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 1500px;
+  }
+  .flex-container2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+  }
+
+  .imgDura{
+    width: 120px;
+    height: 120px;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f17e;
+    margin: 30px;
+    padding: 40px;
+  }
+  .flex-Duras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 180px;
+  }
+  .Titulos{
+    background-color: rgb(255, 255, 0);
+    margin-left: 380px;
+    width: 250px;
+    padding: 22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .contentDescrip{
+    font-size: 25px;
+    font-family:sans-serif;
+    justify-content: center;
+    width: 1200px;
+    text-align: center;
+    margin-left: 400px;
+    padding: 35px;
+    background-color: rgba(228, 228, 228, 0.521);
+  }
+  
+  .content {
+    margin-left: 200px;
+    padding-left: 20px;
+  }
+  #fotoDePerfil{
+    width: 200px;
+    height: 195px;
+  }
+  .sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(85, 85, 85);
+    overflow-x: hidden;
+  }
+  .navegacion{
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .sidenav a {
+    color: rgb(255, 255, 255);
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+
+  .sidenav a:hover {
+    background-color: rgb(221, 221, 221);
+    color: black;
+  }
+
+  .experiencia{
+    margin-top: 35px;
+    margin-left: 550px;
+    width: 50%;
+  }
+  .laboral{
+    display: flex;
+    flex-wrap: nowrap;
+
+  }
+  .contiene{
+    padding: 35px;
+    margin: 25px;
+    background-color: rgba(241, 241, 241, 0.5);
+  }
+
+  .row {
+    display: -webkit-flex;
+    display: flex;
+    width: 70%;
+    margin-left: 350px;
+  }
+  
+  
+  .column {
+    text-align: center;
+    padding: 70px;
+    width: 550px;
+    flex-wrap: nowrap;
+  }
+  .column > i {
+    font-size: 70px;
+  }
+  .column > h2{
+    padding-top: 35px;
+  }
+.Escuelas{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: start;
+  margin-left: 650px;
+}
+.terminado{
+  background-color: rgba(228, 228, 228, 0.548);
+  padding: 35px;
+  margin: 5px;
+
+}
+

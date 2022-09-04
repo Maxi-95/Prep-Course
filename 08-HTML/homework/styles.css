@@ -1,0 +1,28 @@
+body{
+    background-image: url(./imagenes/fonde\ pantalla\ para\ pagina.png);
+    text-align: center;
+}
+
+h1{
+    color: rgb(30, 255, 0);
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+    border: 20px solid red;
+    display: flex;
+    justify-content: center;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}
+#centrado{
+    display: flex;
+    justify-content: center;
+}
