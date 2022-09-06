@@ -1,0 +1,3 @@
+* Funciones Callback: en un metodo o funcion que se le puede agregar entro del argumento de otra funcion,
+                    pero tiene que ir junto con uno o mas metodos para que esta funcion se ejecute dentro
+                    de otra funcion.
