@@ -1,0 +1,7 @@
+prototype: todo en javascript es un objeto con propiedades y funciones, asi que lo que hace la funcion prototype es que a los que nosotros hicimos les podemos
+            agregar otras propiedades y funciones o metodos, cuando necesitemos editas un objeto, necesitamos la herramienta de prototype.
+            Con esta herramienta podemos editas tanto objetos cases como el objeto padre de javascript, el objeto padre es el objeto que viene con el lenguaje 
+            de javascript que contiene todas las funciones que se utiliza en este lenguaje.
+
+_Constructors_ (de Clases): el constructor es como una maquina de crear objetos, dentro de una clase, el constructor en como una caja que tiene las propiedades
+            que podria tener cualquier objeto que nosotros querramos crear mas adelante con esa caja/maquina. 
