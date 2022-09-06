@@ -1,0 +1,3 @@
+	* Arrays: un Array en una caja definida como una variable donde dentro podemos poner muchos elementos, como una variable puede tener un solo valor, para que tenga elementos tiene
+              que encerrar a todos los elementos dentro de corchetes y cada elemento separados por comas ",". ejemplo: var array: [elemento1, elemento2, elemento3];.
+              Para mostrar un elemento del array debemos poner el nombre del array, corteches de apertura y cierre "[]" y dentro del corchete el indice de un elemento. ejemplo array[2];.
