@@ -1,0 +1,22 @@
+* Objetos: En la vida real, como un auto donde sabemos que tiene ruedas, puertas, de que color es, que marca es, nuevo o usado, en javascript un objeto es como un auto 
+           y tiene un conjunto de propiedades como ruedas, puertas, color, marca, etc... y tambien puede tener Metodos "funciones" como ser el del movimiento que hacer
+           a la hora de arrancor por ejemplo.  
+
+
+* Propiedades: Las propiedades son caracteristicas de componen un objeto, como una casa, si el objeto es una casa, las caracteristicas, en este caso propiedades, serian
+           las ventana, puerta, patio, garage, habitaciones, color, etc... 
+
+
+* Métodos: A las funciones dentro de un objeto se les llama Metodo, no es obligatorio llamarlos asi, solo que en la comunidad de programadores se les llaman asi.
+
+
+
+* Bucle `for…in`: Cuando queremos mostras las propiedades y metodos que tiene un objeto, tenemos que recorrerlo como haciamos para mostrar las arrays, pero en este caso
+           usaremos for…in, primero de le coloca una variales X, luego "in" y despues el nombre del objeto, de esta manera X sera el que muestre cada propieda propiedades
+           uno por uno de objeto. 
+
+
+* Notación de puntos vs notación de corchetes: Cuando queremos ver o mostrar una propiedad de un objeto tenemos dos formas de invocarlo, el de notacion de puntos y notacion
+           de corchetes, la notacion de punto es poner el nombre del objeto, luego punto "." y despues el nombre de la propiedad, asi: objeto.propiedad
+           Para la notacion de corchetes ponemos el nombre del objeto seguipor un corchete que habre ([) luego entre comillas el nombre de la propiedad "propiedad", y 
+           cerramos el corchete (]), asi: objeto["propiedad"].
